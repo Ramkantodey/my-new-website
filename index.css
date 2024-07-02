@@ -21,3 +21,12 @@ div{
 
     background-color: rgb(121, 236, 121);
 }
+#mar{
+    
+    background-color: rgb(159, 201, 159);
+    color: rgb(224, 10, 159);
+
+    border-bottom: 20px;
+}
+.tikli{
+    text-align: center;}
